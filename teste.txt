@@ -5,7 +5,7 @@ novo Hello World
 Função 2
 Hello World2
 nova linha
-modifica a função 2
+volta função 2 para o normal
 
 Função 3
 Não faz nada
