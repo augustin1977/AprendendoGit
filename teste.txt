@@ -9,3 +9,6 @@ volta função 2 para o normal
 
 Função 3
 Não faz nada
+
+Função 4
+adicionada nova função
