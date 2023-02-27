@@ -15,3 +15,6 @@ adicionada nova função
 
 Função 5 
 feita para acomodar a nova feature
+
+Função 6 
+outras função
