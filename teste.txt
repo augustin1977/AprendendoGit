@@ -13,5 +13,5 @@ Não faz nada
 Função 4
 adicionada nova função
 
-Função 5
-Função adicionada enquanto estava sendo desenvolvida uma nova funcionalidade
+Função 5 
+feita para acomodar a nova feature
