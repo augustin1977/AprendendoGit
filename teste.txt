@@ -15,3 +15,6 @@ adicionada nova função
 
 Função 5 
 feita para acomodar a nova feature
+
+função 6 
+Vou alterar essa branch tambem pra ver a confusão gerada
