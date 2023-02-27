@@ -1,3 +1,4 @@
 Este é um novo feature implementado
 Função 1
 Aqui foi feita uma função antes de fazer o merge
+Continuo alterando essa branch
