@@ -18,3 +18,6 @@ feita para acomodar a nova feature
 
 Função 6 
 outras função
+
+Função 7
+integrando tudo
